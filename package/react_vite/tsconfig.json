@@ -1,0 +1,5 @@
+{
+  "extends": "@kxh/config-ts-vite-react",
+  "include": ["src"],
+  "references": [{ "path": "./tsconfig.node.json" }]
+}

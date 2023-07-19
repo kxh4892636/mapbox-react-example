@@ -1,0 +1,25 @@
+{
+  "name": "@kxh/node",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "lint:check": "eslint src --max-warnings 0",
+    "lint:fix": "eslint src --fix",
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@kxh/config-eslint-ts-node": "workspace:^",
+    "@kxh/config-ts-node": "workspace:^",
+    "@kxh/config-jest-ts-node": "workspace:^",
+    "@types/node": "^18.16.16",
+    "ts-node": "^10.9.1"
+  }
+}

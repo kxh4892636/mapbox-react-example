@@ -1,0 +1,13 @@
+{
+  "name": "@kxh/config-jest-ts-node",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "author": "Xiaohan Kong <kxh4892636@gmail.com> (https://github.com/kxh4892636)",
+  "license": "MIT",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
