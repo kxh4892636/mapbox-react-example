@@ -1,4 +1,0 @@
-{
-  "extends": "@kxh/config-ts-node",
-  "include": ["src"]
-}
